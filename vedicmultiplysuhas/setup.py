@@ -6,7 +6,7 @@ setuptools.setup(
 
      version='0.1',
 
-     scripts=['vedicmultiplysuhas'] ,
+     scripts=['vedicmultiplysuhas.py'] ,
 
      author="Suhas Gaikwad",
 
