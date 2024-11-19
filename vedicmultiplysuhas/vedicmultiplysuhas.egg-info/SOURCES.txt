@@ -1,6 +1,0 @@
-setup.py
-vedicmultiplysuhas.py
-vedicmultiplysuhas.egg-info/PKG-INFO
-vedicmultiplysuhas.egg-info/SOURCES.txt
-vedicmultiplysuhas.egg-info/dependency_links.txt
-vedicmultiplysuhas.egg-info/top_level.txt

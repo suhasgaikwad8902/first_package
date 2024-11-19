@@ -2,11 +2,11 @@ import setuptools
 
 setuptools.setup(
 
-     name='vedicmultiplysuhas',
+     name='vedicmultiplysuhas.py',
 
-     version='0.1',
+     version='0.2',
 
-     scripts=['vedicmultiplysuhas.py'] ,
+     scripts=['vedicmultiplysuhas'] ,
 
      author="Suhas Gaikwad",
 
